@@ -5,7 +5,7 @@ set vb
 set incsearch
 
 " syntax highlighting
-set bg=light
+set bg=dark
 syntax on
 
 " autoindent
